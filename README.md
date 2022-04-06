@@ -32,4 +32,4 @@ In this case study, we will use EDA to understand how consumer attributes and lo
 
 
 ## Contact
-Created by [@sumitvashistha] - feel free to contact me!
+Created by [@sumitvashistha & @shammi1988] - feel free to contact!
