@@ -1,4 +1,4 @@
-# Project Name
+# Lending Club Case Study
 This Project contains the Case study for Lending Club. 
 
 
