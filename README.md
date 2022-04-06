@@ -3,9 +3,7 @@ This Project contains the Case study for Lending Club.
 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](Python, Pandas, Numpy, JuptyNotebook, Anaconda3)	
-* [Conclusions](#conclusions)
+* [Technologies Used] (Python, Pandas, Numpy, JuptyNotebook, Anaconda3)	
 * [Acknowledgements](Shammi Kapoor)
 
 ## General Information
@@ -27,20 +25,11 @@ The data given below contains the information about past loan applicants and whe
 
  
 
-In this case study, you will use EDA to understand how consumer attributes and loan attributes influence the tendency of default.
-
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
+In this case study, we will use EDA to understand how consumer attributes and loan attributes influence the tendency of default.
 
 ## Technologies Used
 - Python - version 3.9.7
 
 
 ## Contact
-Created by [@@sumitvashistha] - feel free to contact me!
+Created by [@sumitvashistha] - feel free to contact me!
